@@ -2,6 +2,8 @@
 
 -• Hi, I’m @ErickMiguel
 
+-• I speak english/portuguese and actually learning spanish
+
 -• I’m interested in learning coding and  be a Full-Stack programmer
 
 -• I’m currently learning HTML
