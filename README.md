@@ -6,7 +6,7 @@
 
 <p> -• I’m interested in learning coding and  be a Full-Stack programmer </p>
 
-<p> -• I’m currently know HTML5, CSS3, JavaScript and learning a lot of other languages. </p>
+<p> -• I’m currently know HTML5, CSS3, JavaScript, PHP and learning a lot of other languages. </p>
 
 <p> -• U can speak with me in my e-mail: erickmiguel624@gmail.com </p>
 
